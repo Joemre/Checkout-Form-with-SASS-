@@ -1,4 +1,4 @@
-# https://joemre.github.io/Checkout-Form-with-SASS-/,
+# https://joemre.github.io/Checkout-Form-with-SASS-/
 ## Technologies Used
 -SASS, HTML
 
